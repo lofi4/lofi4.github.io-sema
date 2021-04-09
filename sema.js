@@ -18,6 +18,7 @@ function buttonClick(a,b){
 buttonClick('before','was')
 buttonClick('home','main')
 buttonClick('first','one')
+buttonClick('second','two')
 buttonClick('third','three')
 buttonClick('fourth','four')
 buttonClick('fifth','five')
