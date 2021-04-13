@@ -22,7 +22,6 @@ buttonClick('second','two')
 buttonClick('third','three')
 buttonClick('fourth','four')
 buttonClick('fifth','five')
-buttonClick('sixth','six')
 
 
 
